@@ -1,0 +1,16 @@
+      p {
+			color: blue;
+		}
+		#p1 {
+			background-color: yellow;
+		}
+		.p2 {
+			color: maroon;
+		}
+
+		div {
+			background-color: maroon;
+			width: 1000px;
+			height: 2000px;
+			margin-left: 150px;
+		}
